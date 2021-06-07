@@ -1,0 +1,132 @@
+Initialized parameters: T_0 = 5064.50, alpha = 0.4, m = 3, k = 6, iterations = 18
+
+RANDOMLY GENERATED TIMESLOT: 0
+evaluating removing table #0
+evaluating adding table #7evaluating adding table #8change in space = 6change in revenue = -27ACCEPTING CANDIDATE WITH PROBABILITY 0.21712162591800754 < 0.9946829586016679
+current spaced occupied for timeslot 0 = 90new spaced occupied for timeslot 0 = 96Completed Iteration = 0
+Updating T... T_{'party': 6, 'timeslot': 0, 'party_size': 3, 'seated': 0} = 2025.80
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+evaluating removing table #1
+evaluating adding table #10evaluating adding table #7change in space = 9change in revenue = 34ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 1
+Updating T... T_{'party': 9, 'timeslot': 6, 'party_size': 3, 'seated': 0} = 2025.80
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+evaluating removing table #4
+evaluating adding table #8change in space = -3change in revenue = -99ACCEPTING CANDIDATE WITH PROBABILITY 0.36575179559552695 < 0.9523053189864478
+current spaced occupied for timeslot 3 = 96new spaced occupied for timeslot 3 = 93Completed Iteration = 2
+Updating T... T_{'party': 14, 'timeslot': 3, 'party_size': 2, 'seated': 0} = 2025.80
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #1
+evaluating adding table #8change in space = -6change in revenue = -171ACCEPTING CANDIDATE WITH PROBABILITY 0.5958644252778122 < 0.9190533584829572
+current spaced occupied for timeslot 5 = 99new spaced occupied for timeslot 5 = 93Completed Iteration = 3
+Updating T... T_{'party': 14, 'timeslot': 5, 'party_size': 2, 'seated': 0} = 810.32
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #0
+evaluating adding table #4change in space = 0change in revenue = 37ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 4
+Updating T... T_{'party': 14, 'timeslot': 5, 'party_size': 2, 'seated': 0} = 810.32
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #4
+evaluating adding table #10change in space = -3change in revenue = -32ACCEPTING CANDIDATE WITH PROBABILITY 0.32106883017282184 < 0.9612790172459419
+current spaced occupied for timeslot 2 = 99new spaced occupied for timeslot 2 = 96Completed Iteration = 5
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 810.32
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+evaluating removing table #3
+evaluating adding table #13evaluating adding table #11change in space = 3change in revenue = -16ACCEPTING CANDIDATE WITH PROBABILITY 0.6239767657649867 < 0.9804483756149234
+current spaced occupied for timeslot 4 = 96new spaced occupied for timeslot 4 = 99Completed Iteration = 6
+Updating T... T_{'party': 12, 'timeslot': 4, 'party_size': 2, 'seated': 0} = 324.13
+
+
+RANDOMLY GENERATED TIMESLOT: 1
+evaluating removing table #1
+evaluating adding table #7change in space = -6change in revenue = -115ACCEPTING CANDIDATE WITH PROBABILITY 0.005010051993444842 < 0.7013150212962499
+current spaced occupied for timeslot 1 = 99new spaced occupied for timeslot 1 = 93Completed Iteration = 7
+Updating T... T_{'party': 9, 'timeslot': 1, 'party_size': 2, 'seated': 0} = 324.13
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+evaluating removing table #2
+evaluating adding table #10evaluating adding table #7change in space = 6change in revenue = -47ACCEPTING CANDIDATE WITH PROBABILITY 0.17646795645247926 < 0.8650184500939853
+current spaced occupied for timeslot 3 = 93new spaced occupied for timeslot 3 = 99Completed Iteration = 8
+Updating T... T_{'party': 14, 'timeslot': 3, 'party_size': 2, 'seated': 0} = 324.13
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+evaluating removing table #1
+evaluating adding table #14evaluating adding table #2change in space = 6change in revenue = -20ACCEPTING CANDIDATE WITH PROBABILITY 0.6858452845083476 < 0.9401611162253813
+current spaced occupied for timeslot 3 = 99new spaced occupied for timeslot 3 = 105Completed Iteration = 9
+Updating T... T_{'party': 13, 'timeslot': 3, 'party_size': 2, 'seated': 0} = 129.65
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+evaluating removing table #0
+evaluating adding table #10change in space = -6change in revenue = -134REJECTING CANDIDATE SOLUTION
+Completed Iteration = 10
+Updating T... T_{'party': 13, 'timeslot': 3, 'party_size': 2, 'seated': 0} = 129.65
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #0
+evaluating adding table #2change in space = 0change in revenue = 0ACCEPTING CANDIDATE WITH PROBABILITY 0.39866610977662187 < 1.0
+current spaced occupied for timeslot 5 = 93new spaced occupied for timeslot 5 = 93Completed Iteration = 11
+Updating T... T_{'party': 14, 'timeslot': 5, 'party_size': 2, 'seated': 0} = 129.65
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+evaluating removing table #2
+evaluating adding table #10evaluating adding table #8change in space = 3change in revenue = -82ACCEPTING CANDIDATE WITH PROBABILITY 0.3643533303651214 < 0.5312799487589145
+current spaced occupied for timeslot 4 = 99new spaced occupied for timeslot 4 = 102Completed Iteration = 12
+Updating T... T_{'party': 12, 'timeslot': 4, 'party_size': 2, 'seated': 0} = 51.86
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #3
+evaluating adding table #6change in space = -3change in revenue = -35REJECTING CANDIDATE SOLUTION
+Completed Iteration = 13
+Updating T... T_{'party': 12, 'timeslot': 4, 'party_size': 2, 'seated': 0} = 51.86
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+evaluating removing table #0
+evaluating adding table #8change in space = -3change in revenue = -83REJECTING CANDIDATE SOLUTION
+Completed Iteration = 14
+Updating T... T_{'party': 12, 'timeslot': 4, 'party_size': 2, 'seated': 0} = 51.86
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #0
+evaluating adding table #6change in space = -3change in revenue = -72REJECTING CANDIDATE SOLUTION
+Completed Iteration = 15
+Updating T... T_{'party': 12, 'timeslot': 4, 'party_size': 2, 'seated': 0} = 20.74
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+evaluating removing table #0
+evaluating adding table #1change in space = 0change in revenue = 0ACCEPTING CANDIDATE WITH PROBABILITY 0.04121248799994681 < 1.0
+current spaced occupied for timeslot 6 = 99new spaced occupied for timeslot 6 = 99Completed Iteration = 16
+Updating T... T_{'party': 9, 'timeslot': 6, 'party_size': 3, 'seated': 0} = 20.74
+
+
+RANDOMLY GENERATED TIMESLOT: 1
+evaluating removing table #0
+evaluating adding table #4evaluating adding table #6change in space = 9change in revenue = -51REJECTING CANDIDATE SOLUTION
+Completed Iteration = 17
+Updating T... T_{'party': 9, 'timeslot': 6, 'party_size': 3, 'seated': 0} = 20.74
+
+
+
+
+--- 0.008842945098876953 seconds ---
+

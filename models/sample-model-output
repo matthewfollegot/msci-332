@@ -1,0 +1,195 @@
+Parameters:
+- length = width = 40
+- demand = [
+        random.randint(10,15),
+        random.randint(17,24),
+        random.randint(17,24),
+        random.randint(10,15),
+        random.randint(25,40),
+        random.randint(25,40),
+        random.randint(10,15),
+    ]
+
+-  number of timeslots
+    K = 7
+
+
+timeslot 0:
+
+party 0 of size 5 was seated
+party 1 of size 3 was seated
+party 2 of size 2 was seated
+party 3 of size 5 was seated
+party 4 of size 2 was seated
+party 5 of size 2 was seated
+party 6 of size 5 was seated
+party 7 of size 2 was seated
+party 8 of size 5 was seated
+party 9 of size 6 was seated
+party 10 of size 2 was seated
+party 11 of size 6 was seated
+party 12 of size 6 was seated
+party 13 of size 2 was seated
+
+Total number of parties seated during timeslot 0: 	14 = 100.0%
+
+
+timeslot 1:
+
+party 0 of size 5 was seated
+party 1 of size 6 was seated
+party 2 of size 3 was seated
+party 3 of size 5 was seated
+party 4 of size 2 was seated
+party 5 of size 2 was seated
+party 6 of size 4 was seated
+party 7 of size 6 was seated
+party 8 of size 3 was seated
+party 9 of size 3 was seated
+party 10 of size 4 was seated
+party 11 of size 5 was seated
+party 12 of size 4 was seated
+party 13 of size 2 was seated
+party 14 of size 5 was seated
+party 15 of size 2 was seated
+party 16 of size 5 was seated
+
+Total number of parties seated during timeslot 1: 	17 = 100.0%
+
+
+timeslot 2:
+
+party 0 of size 4 was seated
+party 1 of size 5 was seated
+party 2 of size 4 was seated
+party 3 of size 6 was seated
+party 4 of size 4 was seated
+party 5 of size 6 was seated
+party 6 of size 2 was seated
+party 7 of size 3 was seated
+party 8 of size 3 was seated
+party 9 of size 4 was seated
+party 10 of size 4 was seated
+party 11 of size 6 was seated
+party 12 of size 3 was seated
+party 13 of size 3 was seated
+party 14 of size 4 was seated
+party 15 of size 3 was seated
+party 16 of size 4 was seated
+party 17 of size 4 was seated
+party 18 of size 2 was seated
+party 19 of size 3 was seated
+party 20 of size 4 was seated
+party 21 of size 2 was seated
+party 22 of size 5 was seated
+party 23 of size 6 was seated
+
+Total number of parties seated during timeslot 2: 	24 = 100.0%
+
+
+timeslot 3:
+
+party 0 of size 4 was seated
+party 1 of size 2 was seated
+party 2 of size 5 was seated
+party 3 of size 5 was seated
+party 4 of size 4 was seated
+party 5 of size 2 was seated
+party 6 of size 5 was seated
+party 7 of size 2 was seated
+party 8 of size 6 was seated
+party 9 of size 2 was seated
+party 10 of size 2 was seated
+
+Total number of parties seated during timeslot 3: 	11 = 100.0%
+
+
+timeslot 4:
+
+party 0 of size 4 was seated
+party 1 of size 6 was seated
+party 2 of size 6 was seated
+party 3 of size 6 was seated
+party 4 of size 3 was seated
+party 5 of size 4 was seated
+party 6 of size 5 was seated
+party 7 of size 2 was seated
+party 8 of size 5 was seated
+party 9 of size 3 was seated
+party 10 of size 6 was seated
+party 11 of size 5 was seated
+party 12 of size 6 was seated
+party 13 of size 3 was seated
+party 14 of size 3 was seated
+party 15 of size 2 was seated
+party 16 of size 2 was seated
+party 17 of size 6 was seated
+party 18 of size 6 was seated
+party 19 of size 4 was seated
+party 20 of size 4 was seated
+party 21 of size 3 was seated
+party 22 of size 2 was seated
+party 23 of size 6 was seated
+party 24 of size 2 was seated
+party 25 of size 4 was seated
+party 26 of size 2 was seated
+party 27 of size 5 was seated
+party 28 of size 2 was seated
+party 29 of size 6 was seated
+
+Total number of parties seated during timeslot 4: 	30 = 100.0%
+
+
+timeslot 5:
+
+party 0 of size 3 was seated
+party 1 of size 2 was seated
+party 2 of size 5 was seated
+party 3 of size 2 was seated
+party 4 of size 3 was seated
+party 5 of size 3 was seated
+party 6 of size 3 was seated
+party 7 of size 6 was seated
+party 8 of size 3 was seated
+party 9 of size 5 was seated
+party 10 of size 5 was seated
+party 11 of size 2 was seated
+party 12 of size 3 was seated
+party 13 of size 6 was seated
+party 14 of size 5 was seated
+party 15 of size 5 was seated
+party 16 of size 4 was seated
+party 17 of size 3 was seated
+party 18 of size 4 was seated
+party 19 of size 3 was seated
+party 20 of size 4 was seated
+party 21 of size 4 was seated
+party 22 of size 5 was seated
+party 23 of size 2 was not seated
+party 24 of size 5 was seated
+party 25 of size 2 was not seated
+party 26 of size 4 was seated
+party 27 of size 3 was seated
+party 28 of size 5 was seated
+party 29 of size 4 was seated
+party 30 of size 5 was seated
+party 31 of size 3 was seated
+party 32 of size 5 was seated
+
+Total number of parties seated during timeslot 5: 	31 = 93.93939393939394%
+
+
+timeslot 6:
+
+party 0 of size 4 was seated
+party 1 of size 5 was seated
+party 2 of size 5 was seated
+party 3 of size 3 was seated
+party 4 of size 2 was seated
+party 5 of size 6 was seated
+party 6 of size 2 was seated
+party 7 of size 5 was seated
+party 8 of size 3 was seated
+party 9 of size 2 was seated
+
+Total number of parties seated during timeslot 6: 	10 = 100.0%
